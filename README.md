@@ -1,7 +1,7 @@
 ## Hi, my name is Diego
 
 👨‍💻 Software engineer with 5+ years of experience </br>
-⚛️ I am a React/React Native Developer for the most part! Although most of my client work is not on this repo </br>
+⚛️ I am a React/React Native Developer for the most part! Although most of my client work is not published under this account </br>
 🎓 Studied Computer Science at [Universidad Católica Boliviana San Pablo](https://www.ucb.edu.bo/) </br>
 📚 Currently strengthening my knowledge on data structures and design systems </br>
 
